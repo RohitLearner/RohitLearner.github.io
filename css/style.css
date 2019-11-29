@@ -115,10 +115,10 @@ transform: translate(-50%, -50%);
 }
 
 .img4{
-  margin-left: 2%;
-  margin-right: 2%;
-  max-width: 95%;
-    height: auto;
+  margin-left: 6%;
+  margin-right: 4%;
+  width: 88%;
+  height: auto;
 }
 .link{
   text-decoration:underline;
