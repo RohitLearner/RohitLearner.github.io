@@ -758,7 +758,6 @@
             <form target="_blank" action="https://formsubmit.co/1rohit8singh@gmail.com" method="POST" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
-		  <input type="hidden" name="_captcha" value="false">
                   <input type="text" name="name" class="form-control" placeholder="Your Name" required>
                   
                 </div>
@@ -780,7 +779,9 @@
                 <div class="sent-message">Your message has been sent. Thank you!</div>                
               </div>
               <!-- End Contact Section <div class="text-center"><p style="font-size:12px;" class="fst-italic">Your message has been sent after "ok":true is shown in red colour background.</p></div>  -->
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              	<input type="hidden" name="_template" value="table">
+          	<input type="hidden" name="_captcha" value="false">
+	      <div class="text-center"><button type="submit">Send Message</button></div>
               
               
             </form>
