@@ -1,0 +1,16 @@
+
+Credits :
+1. R favicon - https://www.pngegg.com/en/png-bforp
+2. Youtube Icon - www.youtube.com, googleusercontent.com 
+3. Admission Portfolio 3 Image - Taken from https://timesofindia.indiatimes.com/home/education/news/maharashtra-edu-dept-to-colleges-dont-start-class-xi-admissions/articleshow/82843737.cms
+4. Flight Crash Image - Taken from https://www.dreamstime.com/plane-crash-graphic-animation-matte-included-plane-crash-graphic-animation-video203724234
+5. MIT Logo Portfolio Image - Taken from http://introtodeeplearning.com/.
+6. Portfolio 10 KNN Table Image - Taken from https://www.aurigait.com/blog/recommendation-system-using-knn/.
+7. Email Classifier Image - Taken from https://developers.google.com/machine-learning/guides/text-classification.
+8. RockPaperScissors Image - Taken from https://demonstrations.wolfram.com/RockPaperScissorsWithAIPlayer/
+
+Inspired from :
+Template Name: MyResume
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
