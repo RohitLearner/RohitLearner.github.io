@@ -783,9 +783,15 @@
               	<input type="text" name="_honey" style="display:none">
 		    <input type="hidden" name="_template" value="table">
           	<input type="hidden" name="_captcha" value="false">
-          	<input type="hidden" name="_next" value="https://rohitlearner.github.io/thanks.html">
-	      <div class="text-center"><button type="submit">Send Message</button></div>
-              
+	      <div class="text-center"><button type="submit" onClick="myFunction2()"/> Send Message</button></div>
+   <script>
+     function myFunction2() {
+        let tID = setTimeout(function () {
+            window.location.href = "https://rohitlearner.github.io/thanks.html";
+            window.clearTimeout(tID);
+        }, 2500);
+     }
+   </script>
               
             </form>
             
