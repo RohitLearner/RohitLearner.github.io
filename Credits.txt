@@ -9,8 +9,11 @@ Credits :
 7. Email Classifier Image - Taken from https://developers.google.com/machine-learning/guides/text-classification.
 8. RockPaperScissors Image - Taken from https://demonstrations.wolfram.com/RockPaperScissorsWithAIPlayer/
 
-Inspired from :
-Template Name: MyResume
+9. Inspired from :
+a. Template Name: MyResume
 Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
+
+b. Template Name : Thank You Page
+URL : https://codepen.io/omkar-naik/pen/VRdyKe
